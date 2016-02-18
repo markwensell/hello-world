@@ -11,3 +11,6 @@ that just got harder and harder until it broke
 
 now its real broken
 
+
+adding changes #1 strother
+
